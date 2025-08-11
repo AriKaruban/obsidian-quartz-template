@@ -1,1 +1,13 @@
-{}
+{
+  "theme": "moonstone",
+  "accentColor": "#37aaae",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "cssTheme": "ITS Theme",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "S - Encoded Icons",
+    "S - Encoded Fonts"
+  ]
+}

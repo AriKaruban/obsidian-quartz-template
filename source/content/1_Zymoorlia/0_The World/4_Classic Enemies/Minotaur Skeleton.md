@@ -1,0 +1,6 @@
+
+
+````statblock
+monster: Minotaur Skeleton
+````
+

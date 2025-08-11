@@ -1,0 +1,11 @@
+{
+  "search": false,
+  "editor": false,
+  "tab-header": false,
+  "file-explorer": false,
+  "properties": false,
+  "bookmarks": false,
+  "outline": false,
+  "graph": false,
+  "pane-relief:history-menu": false
+}
