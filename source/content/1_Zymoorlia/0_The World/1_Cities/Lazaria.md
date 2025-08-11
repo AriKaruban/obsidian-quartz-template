@@ -1,4 +1,4 @@
-
+[[Lazaria.png]] 
 Lazaria, literally translated to the reviving city. \|\|Reviving referring to the bodies not the community\|\| 
 
 > [!infobox | right]
@@ -37,7 +37,7 @@ Lazaria, literally translated to the reviving city. \|\|Reviving referring to th
 
 ```leaflet  
 id: Lazaria   
-image: [[Lazaria.png]]
+image: [[Lazaria.jpg]]
 bounds: [[0,0], [12160, 9120]] 
 height: 850px 
 width: 70% 

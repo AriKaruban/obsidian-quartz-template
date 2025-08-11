@@ -1,9 +1,6 @@
 ---
-title: My GitHub Pages Notebook!
+title: Blank DnD Wiki with Theme
 ---
 
-Hello world!
-We are testing!
-Write some words here!
-
-
+This is a modified blank Quartz installation.
+<!-- See the [documentation](https://quartz.jzhao.xyz) for how to get started. -->

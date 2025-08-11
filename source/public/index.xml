@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>DnD Wiki</title>
+      <link>https://arikaruban.github.io/obsidian-quartz-template</link>
+      <description>Last 10 notes on DnD Wiki</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>z_assets</title>
+    <link>https://arikaruban.github.io/obsidian-quartz-template/z_assets/z_assets</link>
+    <guid>https://arikaruban.github.io/obsidian-quartz-template/z_assets/z_assets</guid>
+    <description></description>
+    <pubDate>Mon, 11 Aug 2025 21:13:21 GMT</pubDate>
+  </item><item>
+    <title>Campaigns</title>
+    <link>https://arikaruban.github.io/obsidian-quartz-template/1_Zymoorlia/Campaigns/Campaigns</link>
+    <guid>https://arikaruban.github.io/obsidian-quartz-template/1_Zymoorlia/Campaigns/Campaigns</guid>
+    <description></description>
+    <pubDate>Mon, 11 Aug 2025 14:39:24 GMT</pubDate>
+  </item><item>
+    <title>Blank DnD Wiki with Theme</title>
+    <link>https://arikaruban.github.io/obsidian-quartz-template/</link>
+    <guid>https://arikaruban.github.io/obsidian-quartz-template/</guid>
+    <description>This is a modified blank Quartz installation.</description>
+    <pubDate>Mon, 11 Aug 2025 14:39:24 GMT</pubDate>
+  </item><item>
+    <title>0_The Guests</title>
+    <link>https://arikaruban.github.io/obsidian-quartz-template/1_Zymoorlia/Campaigns/0_The-Guests/0_The-Guests</link>
+    <guid>https://arikaruban.github.io/obsidian-quartz-template/1_Zymoorlia/Campaigns/0_The-Guests/0_The-Guests</guid>
+    <description></description>
+    <pubDate>Mon, 11 Aug 2025 14:39:24 GMT</pubDate>
+  </item><item>
+    <title>Minotaur Skeleton</title>
+    <link>https://arikaruban.github.io/obsidian-quartz-template/1_Zymoorlia/0_The-World/4_Classic-Enemies/Minotaur-Skeleton</link>
+    <guid>https://arikaruban.github.io/obsidian-quartz-template/1_Zymoorlia/0_The-World/4_Classic-Enemies/Minotaur-Skeleton</guid>
+    <description>monster: Minotaur Skeleton.</description>
+    <pubDate>Mon, 11 Aug 2025 14:39:24 GMT</pubDate>
+  </item><item>
+    <title>Quaggoth</title>
+    <link>https://arikaruban.github.io/obsidian-quartz-template/1_Zymoorlia/0_The-World/4_Classic-Enemies/Quaggoth</link>
+    <guid>https://arikaruban.github.io/obsidian-quartz-template/1_Zymoorlia/0_The-World/4_Classic-Enemies/Quaggoth</guid>
+    <description>layout: Basic 5e Layout image: ![250](uploads.worldanvil.com/uploads/images/fe2a86f439978b21716827d2922b0e5b.png) name: &quot;Quaggoth&quot; size: &quot;Medium&quot; ...</description>
+    <pubDate>Mon, 11 Aug 2025 14:39:24 GMT</pubDate>
+  </item><item>
+    <title>1_Zymoorlia</title>
+    <link>https://arikaruban.github.io/obsidian-quartz-template/1_Zymoorlia/1_Zymoorlia</link>
+    <guid>https://arikaruban.github.io/obsidian-quartz-template/1_Zymoorlia/1_Zymoorlia</guid>
+    <description></description>
+    <pubDate>Mon, 11 Aug 2025 14:39:24 GMT</pubDate>
+  </item><item>
+    <title>The Zymoire</title>
+    <link>https://arikaruban.github.io/obsidian-quartz-template/1_Zymoorlia/0_The-World/3_Zymics/The-Zymoire/The-Zymoire</link>
+    <guid>https://arikaruban.github.io/obsidian-quartz-template/1_Zymoorlia/0_The-World/3_Zymics/The-Zymoire/The-Zymoire</guid>
+    <description></description>
+    <pubDate>Mon, 11 Aug 2025 14:39:24 GMT</pubDate>
+  </item><item>
+    <title>4_Classic Enemies</title>
+    <link>https://arikaruban.github.io/obsidian-quartz-template/1_Zymoorlia/0_The-World/4_Classic-Enemies/4_Classic-Enemies</link>
+    <guid>https://arikaruban.github.io/obsidian-quartz-template/1_Zymoorlia/0_The-World/4_Classic-Enemies/4_Classic-Enemies</guid>
+    <description></description>
+    <pubDate>Mon, 11 Aug 2025 14:39:24 GMT</pubDate>
+  </item><item>
+    <title>3_Zymics</title>
+    <link>https://arikaruban.github.io/obsidian-quartz-template/1_Zymoorlia/0_The-World/3_Zymics/3_Zymics</link>
+    <guid>https://arikaruban.github.io/obsidian-quartz-template/1_Zymoorlia/0_The-World/3_Zymics/3_Zymics</guid>
+    <description></description>
+    <pubDate>Mon, 11 Aug 2025 14:39:24 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

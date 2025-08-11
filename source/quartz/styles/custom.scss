@@ -1,3 +1,87 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+// {
+//   "pane-relief@@pane-relief-pane-numbering": true,
+//   "ITS@@select": "wotc-beyond",
+//   "ITS@@accent-color": true,
+//   "ITS@@its-d": false,
+//   "ITS@@notion": false,
+//   "ITS@@h1-color@@light": "#3CD8FF",
+//   "ITS@@h2-color@@light": "#2BD4A9",
+//   "ITS@@h3-color@@light": "#66C549",
+//   "ITS@@h4-color@@light": "#4471D8",
+//   "ITS@@h5-color@@light": "#844FD6",
+//   "ITS@@h6-color@@light": "#D6409D",
+//   "ITS@@h1-border-line-color@@light": "#3CD8FF",
+//   "ITS@@h2-border-line-color@@light": "#2BD4A9",
+//   "ITS@@h3-border-line-color@@light": "#66C549",
+//   "ITS@@h4-border-line-color@@light": "#4471D8",
+//   "ITS@@h5-border-line-color@@light": "#844FD6",
+//   "ITS@@h6-border-line-color@@light": "#D6409D",
+//   "ITS@@callout-style": "none",
+//   "ITS@@file-explorer-flat": false,
+//   "ITS@@titlebar-colors": false,
+//   "ITS@@titlebar-bubbles": false,
+//   "ITS@@tab-widths": "tab-auto",
+//   "ITS@@radius-s": 2,
+//   "ITS@@ITS-Sizes": "none",
+//   "ITS@@nav-item-color@@light": "#45588D",
+//   "ITS@@text-faint@@light": "#5A736C",
+//   "ITS@@file-icon-color@@light": "#51627E",
+//   "ITS@@inactive@@light": "#4A7C8F",
+//   "ITS@@i-at@@light": "#8924D8",
+//   "ITS@@tag@@light": "#4E319C",
+//   "ITS@@link-style": "link-notion",
+//   "ITS@@scrollbar-thumb-bg@@light": "#7891AE8A",
+//   "ITS@@folder-open@@light": "#2F6A81",
+//   "ITS@@ITS-Tag-Style": "tag-bubble",
+//   "ITS@@tag-outline": false,
+//   "ITS@@writing-document": false,
+//   "ITS@@writing": false,
+//   "ITS@@disable-source-styling": false,
+//   "ITS@@Inline-Title-Positions": "none",
+//   "ITS@@canvas-color-opacity": 0.06,
+//   "ITS@@hide-note-title": false,
+//   "ITS@@hide-note-title-icons": false,
+//   "ITS@@hide-tab-outline": false,
+//   "ITS@@hide-titlebar-tab": false,
+//   "ITS@@hide-outline-heading": false,
+//   "ITS@@hide-titlebar": false,
+//   "ITS@@hide-vault-name": false,
+//   "ITS@@minimalist-workspace": false
+// }
+
+
+
+
+h1 {
+  color: #3CD8FF;
+  border-bottom: solid 1px #3CD8FF;
+}
+h2 {
+  color: #2BD4A9;
+  border-bottom: solid 1px #2BD4A9;
+}
+h3 {
+  color: #66C549;
+  border-bottom: solid 1px #66C549;
+}
+h4 {
+  color: #4471D8;
+  border-bottom: solid 1px #4471D8;
+}
+h5 {
+  color: #844FD6;
+  border-bottom: solid 1px #844FD6;
+}
+h6 {
+  color: #D6409D;
+  border-bottom: solid 1px #D6409D;
+}
+
+.callout[data-callout="infobox"][data-callout-metadata~="right"] {
+    float: right;
+    max-width: 20vw;
+    margin: 0 0 0 1rem;
+}

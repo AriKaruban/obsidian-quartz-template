@@ -42,6 +42,11 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(displayedTime)
       }
 
+      const wc = (fileData as any).wordcount ?? 0
+      if (wc > 0) {
+        segments.push('~' + wc + ' words')
+      }
+
       const segmentsElements = segments.map((segment) => <span>{segment}</span>)
 
       return (
