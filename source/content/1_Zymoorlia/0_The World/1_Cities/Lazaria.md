@@ -1,4 +1,4 @@
-[[Lazaria.png]] 
+[[lazaria.jpg ]]
 Lazaria, literally translated to the reviving city. \|\|Reviving referring to the bodies not the community\|\| 
 
 > [!infobox | right]

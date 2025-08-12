@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "z_assets"
+  "attachmentFolderPath": "z_assets",
+  "livePreview": false
 }
