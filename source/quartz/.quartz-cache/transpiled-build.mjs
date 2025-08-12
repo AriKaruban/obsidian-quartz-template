@@ -64,7 +64,7 @@ Warning: ${file.data.filePath} isn't yet tracked by git, last modification date 
                     center: [${spec.lat/1e3}, ${spec.lng/1e3}],
                     zoom: ${spec.defaultZoom*-1.5}
                 });
-                var imageUrl = 'http://localhost:8080${spec.images}',
+                var imageUrl = '${spec.images}',
                     imageBounds = [[${spec.bounds?.[0]}],[${spec.bounds?.[1]?.[0]/1e3}, ${spec.bounds?.[1]?.[1]/1e3}]];
                 L.imageOverlay(imageUrl, imageBounds).addTo(map);
             </script>`;parent.children[index]={type:"html",value:html},parent.children[index+1]={type:"html",value:js}})}]}}),"LeafletBlocks");var RemoveDrafts=__name(()=>({name:"RemoveDrafts",shouldPublish(_ctx,[_tree,vfile]){return!(vfile.data?.frontmatter?.draft||!1)}}),"RemoveDrafts");import path7 from"path";import{visit as visit8}from"unist-util-visit";import{jsx}from"preact/jsx-runtime";var Header=__name(({children})=>children.length>0?jsx("header",{children}):null,"Header");Header.css=`

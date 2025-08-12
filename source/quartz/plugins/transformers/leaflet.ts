@@ -166,7 +166,7 @@ export const LeafletBlocks: QuartzTransformerPlugin = () => ({
                     center: [${spec.lat/1000}, ${spec.lng/1000}],
                     zoom: ${spec.defaultZoom*-1.5}
                 });
-                var imageUrl = 'http://localhost:8080${spec.images}',
+                var imageUrl = '${spec.images}',
                     imageBounds = [[${spec.bounds?.[0]}],[${spec.bounds?.[1]?.[0]/1000}, ${spec.bounds?.[1]?.[1]/1000}]];
                 L.imageOverlay(imageUrl, imageBounds).addTo(map);
             </script>`
