@@ -93,7 +93,7 @@ function parseMarkers(raw: any): MarkerSpec[] | undefined {
 }
 
 function normalizeImages(base: any) {
-    return '/z_assets/' + base.image;
+    return '/obsidian-quartz-template/z_assets/' + base.image;
 }
 
 export const LeafletBlocks: QuartzTransformerPlugin = () => ({
